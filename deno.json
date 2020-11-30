@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "types": ["./types.d.ts"]
+  },
+  "fmt": {
+    "options": {
+      "lineWidth": 120
+    }
+  }
+}
